@@ -1,6 +1,8 @@
 ---
 license: apache-2.0
 ---
+```cat pytorch_model.part_* > pytorch_model.bin.zip```
+
 # MetricX-24 (Large)
 
 *This is not an officially supported Google product.*
