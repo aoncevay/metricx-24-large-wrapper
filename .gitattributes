@@ -1,0 +1,2 @@
+pytorch_model.bin.zip filter=lfs diff=lfs merge=lfs -text
+pytorch_model.part_* filter=lfs diff=lfs merge=lfs -text
