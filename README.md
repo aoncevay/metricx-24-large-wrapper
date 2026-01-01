@@ -1,7 +1,7 @@
 ---
 license: apache-2.0
 ---
-```cat pytorch_model.part_* > pytorch_model.bin.zip```
+```cat pytorch_model.part_* > pytorch_model.bin```
 
 # MetricX-24 (Large)
 
